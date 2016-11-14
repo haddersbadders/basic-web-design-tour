@@ -112,6 +112,7 @@ var footer_expl = "    <p>The footer's styling is quite simple.</p>\
 // Define the tour!
     var tour = {
       id: "css-tour",
+     scrollDuration: "500",
       steps: [
         {
           title: "The body",
