@@ -243,7 +243,7 @@ init = function() {
         id: calloutId,
         target: startBtnId,
         placement: 'right',
-       yOffset: "-10",
+       yOffset: "-24",
         title: 'Take a tour of the CSS',
         content: 'You can take a tour of the CSS I used to style this page! ',
 
