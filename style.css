@@ -63,7 +63,7 @@ figcaption {
 }
 
 blockquote {
-  width: 66%;
+width: 66%;
 margin: 1em auto;
 background: #ddd;
 padding: 1em;
@@ -81,7 +81,7 @@ footer {
 }
 
 .author {
-  width: 75px;
+width: 75px;
 border-radius: 50%;
 border: 1px solid #bbb;
 vertical-align: middle;
@@ -90,4 +90,22 @@ margin-right: 0.33em;
 
 .fa-twitter-square {
   color: #6FAEDC;
+}
+
+.panel {
+  background: #f4f4f4;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  padding: 0.33em;
+  color: #3E2723;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+#body_ {
+  display: inline;
+}
+
+.class {
+  color: #B71C1C;
 }
