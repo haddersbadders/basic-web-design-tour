@@ -24,7 +24,7 @@ var hheading_expl = " <p>Both the <strong>&lt;h1&gt;</strong> and <strong>&lt;h3
      font-weight: normal;<br>\
    }</p>";
 
-var h1heading_expl = "<p>The <strong>&lt;h1&gt;</strong> in the header has it's text transformed to uppercase. </p>\
+var h1heading_expl = "<p>The <strong>&lt;h1&gt;</strong> in the header has its text transformed to uppercase. </p>\
 <p class=\"panel\">header h1 {<br>\
   text-transform: uppercase;<br>\
 }</p>";
@@ -37,7 +37,7 @@ var article_expl = "<p>The <strong>&lt;article&gt;</strong> element has been sty
   padding: 1em;<br>\
 }</p>";
 
-var articleh_expl = "<p>This <strong>&lt;h1&gt;</strong> header has had it's font changed to Georgia and has had the bold style taken off.</p>\
+var articleh_expl = "<p>This <strong>&lt;h1&gt;</strong> header has had its font changed to Georgia and has had the bold style taken off.</p>\
   <p class=\"panel\">article h1 {<br>\
     font-weight: normal;<br>\
     font-family: georgia, serif;<br>\
@@ -45,7 +45,7 @@ var articleh_expl = "<p>This <strong>&lt;h1&gt;</strong> header has had it's fon
   var avatar_expl = "<p>This is an image element with a class name attribute:</p>\
   <p class=\"panel\">&lt;img src=\"images/person-804035_640.jpg\" <span class=\"class\">class=\"author\"</span> /&gt;</p>\
   <p>The class allows me to style this image differently to other images by selecting it's class name.</p>\
-  <p>In CSS, the image (by proxy of it's class name) has been styled:</p>\
+  <p>In CSS, the image (by proxy of its class name) has been styled:</p>\
   <ul><li>a fixed width of 75px (pixels)</li><li>the circle is achieved by setting border radius (rounding of the corners) to 50%</li><li>a subtle border is added</li><li>the image is aligned to the middle of the line of text using vertical-align</li><li>anda bit of margin is added to the right to push it away from the text</li></ul>\
   <p class=\"panel\"><span class=\"class\">.author</span> {<br>\
   width: 75px;<br>\
