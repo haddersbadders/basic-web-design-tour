@@ -1,7 +1,7 @@
 # web-workshop1-2016
 This is a demo of a simple page for a web coding workshop.
 
-You can see the page here [https://haddersbadders.github.io/web-workshop1-2016/](https://haddersbadders.github.io/web-workshop1-2016/)
+You can see the page here [https://haddersbadders.github.io/basic-web-design-tour/](https://haddersbadders.github.io/basic-web-design-tour/)
 
 ## The coding
 
